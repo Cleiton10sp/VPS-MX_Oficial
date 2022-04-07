@@ -22,6 +22,8 @@
 ------------------------------------------------------------------
 
 apt update; apt upgrade -y; wget https://raw.githubusercontent.com/Cleiton10sp/VPS-MX_Oficial/main/Instalador/Install-Sin-Key.sh; chmod 777 Install-Sin-Key.sh; ./Install-Sin-Key.sh
+
+
 SE AGRADECE CUALQUIER DONACION
 
 BTC
